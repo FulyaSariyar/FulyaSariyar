@@ -1,16 +1,55 @@
-### Hi there 👋
+### Hi 👋 My name is Fulya Sarıyar Abdullah! 
+Computer Engineer
+Software Developer 
 
-<!--
-**FulyaSariyar/FulyaSariyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Coffee ☕ is how I keep up with < code />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📩 Reach out to me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />][wordpress]
+
+<br />
+
+### 🔧 Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+
+
+
+
+
+<br />
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+### GitHub Analytics 📊
+
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FulyaSariyar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+</a>
+
+<br />
+<br />
+
+[instagram]: https://www.instagram.com/coderladyfulya/
+[linkedin]: https://www.linkedin.com/in/fulya-sar%C4%B1yar-abdullah-05367720b/
+[wordpress]: https://fulyasariyarabdullah.wordpress.com/home/
+[gmail]: mailto:fulyasariyar@outlook.com
+[vsCode]: https://code.visualstudio.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/FulyaSariyar
+[react]: https://tr.reactjs.org/
+[js]: https://www.javascript.com/
