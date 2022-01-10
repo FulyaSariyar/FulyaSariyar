@@ -11,6 +11,8 @@ Coffee ☕ is how I keep up with < code />
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />][wordpress]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -53,3 +55,5 @@ Coffee ☕ is how I keep up with < code />
 [github]: https://github.com/FulyaSariyar
 [react]: https://tr.reactjs.org/
 [js]: https://www.javascript.com/
+[twitter]: https://twitter.com/FulyaSariyar
+[facebook]: https://www.facebook.com/autre.madame/
