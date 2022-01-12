@@ -67,7 +67,9 @@ Coffee ☕ is how I keep up with < code />
 <hr>
 <br />
 <br />
+
 ### React Game
+
 <br />
 <br />
 <img src="https://github.com/FulyaSariyar/react-game/blob/master/resources/preview.gif"/>
