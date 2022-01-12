@@ -67,10 +67,7 @@ Coffee ☕ is how I keep up with < code />
 <br />
 <br />
 
-<hr>
 
-<br />
-<br />
 
 ### React Game 
 
