@@ -71,11 +71,11 @@ Coffee ☕ is how I keep up with < code />
 <br />
 <br />
 
-### React Game ⚡
+### React Game 
 
 <br>
 
-     [<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />[reactgame]
+   [<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][reactgame]
 
 
 <br />
