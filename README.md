@@ -28,6 +28,7 @@ Coffee ☕ is how I keep up with < code />
 
 
 
+
 <br />
 
 
@@ -57,6 +58,8 @@ Coffee ☕ is how I keep up with < code />
 [js]: https://www.javascript.com/
 [twitter]: https://twitter.com/FulyaSariyar
 [facebook]: https://www.facebook.com/autre.madame/
+[reactgame]: https://github.com/FulyaSariyar/react-game
+
 
 <br />
 <br />
@@ -69,7 +72,7 @@ Coffee ☕ is how I keep up with < code />
 <br />
 
 ### React Game
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactgame]
 
-<br />
 <br />
 <img src="https://github.com/FulyaSariyar/react-game/blob/master/resources/preview.gif"/>
