@@ -1,5 +1,5 @@
 ### Hi 👋 My name is Fulya Sarıyar Abdullah! 
-Computer Engineer
+Computer Engineer 💻
 Frontend Developer | React.js 
 
 Coffee ☕ is how I keep up with < code />
