@@ -1,4 +1,4 @@
-### Hi 👋 My name is Fulya Sarıyar Abdullah! 
+### Hi 👋 My name is Fulya Sarıyar! 
 Computer Engineer 💻
 
 Coffee ☕ is how I keep up with < code />
