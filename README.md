@@ -40,7 +40,7 @@ Coffee ☕ is how I keep up with < code />
 <br />
 
 [instagram]: https://www.instagram.com/coderladyfulya/
-[linkedin]: https://www.linkedin.com/in/fulya-sar%C4%B1yar-abdullah-05367720b/
+[linkedin]: https://www.linkedin.com/in/fulya-sar%C4%B1yar-05367720b/
 [wordpress]: https://wordpress.com/view/fulyasariyar.wordpress.com
 [gmail]: mailto:fulyasariyar@outlook.com
 [vsCode]: https://code.visualstudio.com/
