@@ -1,5 +1,5 @@
 ### Hi 👋 My name is Fulya Sarıyar! 
-Computer Engineer 💻
+Software Engineer 💻
 
 Coffee ☕ is how I keep up with < code />
 
