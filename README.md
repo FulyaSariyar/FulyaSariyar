@@ -16,10 +16,7 @@ Software Engineer 💻
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />][facebook]
 
 <br />
-<br />
-<br />
 
-<img src="https://camo.githubusercontent.com/c7e9505006d7d0ab6e4400ead99cae7c39ece6cb57685d50de11dd84d3b0f4a5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f55715a34696d46496f6c6a6c72354f32734d2f67697068792e676966"/>
 
 ### 🔧 Languages and Tools:
 
@@ -29,7 +26,10 @@ Software Engineer 💻
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 
+<br />
+<br />
 
+<img src="https://camo.githubusercontent.com/c7e9505006d7d0ab6e4400ead99cae7c39ece6cb57685d50de11dd84d3b0f4a5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f55715a34696d46496f6c6a6c72354f32734d2f67697068792e676966"/>
 
 
 <br />
