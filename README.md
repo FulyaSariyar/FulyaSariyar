@@ -34,7 +34,6 @@ Software Engineer 💻
 
 
 <br />
-<br />
 
 
 ### GitHub Analytics 📊
