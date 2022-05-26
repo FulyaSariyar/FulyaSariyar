@@ -49,7 +49,7 @@ Software Engineer 💻
 [github]: https://github.com/FulyaSariyar
 [react]: https://tr.reactjs.org/
 [js]: https://www.javascript.com/
-[twitter]: https://twitter.com/mathilldaaleon
+[twitter]: https://twitter.com/FulyaSariyar
 [facebook]: https://www.facebook.com/autre.madame/
 [reactgame]: https://github.com/FulyaSariyar/react-game
 
