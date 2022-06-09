@@ -30,7 +30,7 @@ Software Engineer 💻
 <br />
 
 [instagram]: https://www.instagram.com/coderladyfulya/
-[linkedin]: [https://www.linkedin.com/in/fulya-sar%C4%B1yar-05367720b/](https://www.linkedin.com/in/fulya-sar%C4%B1yar-%EF%A3%BF-05367720b/)
+[linkedin]: https://www.linkedin.com/in/fulya-sar%C4%B1yar-%EF%A3%BF-05367720b/
 [wordpress]: https://wordpress.com/view/fulyasariyar.wordpress.com
 [gmail]: mailto:fulyasariyar@outlook.com
 [vsCode]: https://code.visualstudio.com/
