@@ -1,4 +1,4 @@
-### Hi 👋 My name is Fulya Sarıyar! 
+### Hi 👋 My name is Fulya! 
 Software Engineer 💻
 
 
