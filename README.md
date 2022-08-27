@@ -64,6 +64,6 @@ Software Engineer 💻
 <br>
 
 ### React ThreeJS 3d Animation App ( Kiki )
-<src="https://user-images.githubusercontent.com/15870445/187024795-deb1774c-c033-4fa8-af48-91cbc6e9f9c9.gif" />
+<img src="https://user-images.githubusercontent.com/15870445/187024795-deb1774c-c033-4fa8-af48-91cbc6e9f9c9.gif" />
 
 
