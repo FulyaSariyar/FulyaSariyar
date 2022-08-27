@@ -64,6 +64,12 @@ Software Engineer 💻
 <br>
 
 ### React ThreeJS 3d Animation App ( Kiki )
+
+<img align="left" alt="github" width="26px" src="https://github.com/FulyaSariyar/react-threejs-animation" />
+
+<br>
+<br>
+
 <img src="https://user-images.githubusercontent.com/15870445/187024795-deb1774c-c033-4fa8-af48-91cbc6e9f9c9.gif" />
 
 
