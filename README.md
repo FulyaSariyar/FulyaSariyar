@@ -1,5 +1,5 @@
 ### Hi 👋 My name is Fulya! 
-Software Engineer 💻
+Computer Engineer 💻
 
 
 
@@ -18,13 +18,18 @@ Software Engineer 💻
 <br />
 <br />
 
+### Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![REACT](https://img.shields.io/badge/reactjs-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![SASS](https://img.shields.io/badge/graphql-hotpink.svg?style=for-the-badge&logo=graphql&logoColor=white) ![Mongodb](https://img.shields.io/badge/mongodb-%2335495e.svg?style=for-the-badge&logo=mongodb&logoColor=%234FC08D)
 
 
+### 📊 GitHub Analytics 
 
-### GitHub Analytics 📊
+![](https://github-readme-stats.vercel.app/api?username=fulyasariyar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fulyasariyar&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fulyasariyar&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FulyaSariyar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fulyasariyar&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 <br />
 <br />
@@ -43,14 +48,6 @@ Software Engineer 💻
 [reactgame]: https://github.com/FulyaSariyar/react-game
 
 
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<br />
-<br />
 
 ### React Game 
 
@@ -68,5 +65,12 @@ Software Engineer 💻
 <br>
 
 <img src="https://user-images.githubusercontent.com/15870445/187024795-deb1774c-c033-4fa8-af48-91cbc6e9f9c9.gif" />
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=fulyasariyar&icon=6&color=11)](https://visitcount.itsvg.in)
 
 
