@@ -1,5 +1,5 @@
 ### Hi 👋 My name is Fulya! 
-Computer Engineer 💻
+Senior Software Engineer 💻
 
 
 
