@@ -1,21 +1,9 @@
-### Hi 👋 My name is Fulya! 
-Senior Software Engineer 💻
+### Hi 👋 I'm Fulya! 
+Hello, I'm Fulya, I'm a professional swimmer and computer engineer.
+I get great satisfaction from connecting with new people, understanding what motivates them, the story that defines who they are. I love sharing my perspectives and building genuine business relationships. I always aim to be in an environment where I can grow and be part of a whole that brings positive change to those around me.
 
-
-
-
-
-
-### 📩 Reach out to me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
-
-
-<br />
-<br />
+<br>
+<br>
 
 ### Tech Stack
 ![:NET](https://img.shields.io/badge/.NET-%230db7ed.svg?style=for-the-badge&logo=:NET&logoColor=white) ![CSharp](https://img.shields.io/badge/csharp-%23563D7C.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23E34F26.svg?style=for-the-badge&logo=angular&logoColor=white) ![REACT](https://img.shields.io/badge/reactjs-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23E34F26.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabiitMQ](https://img.shields.io/badge/RabbitMQ-%23E34F26.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) 
